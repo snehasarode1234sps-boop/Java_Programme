@@ -4,7 +4,8 @@ public class LoginTest {
 
 	public static void main(String args[])
 	{
-		System.out.println("Login test passed");
+		System.out.println("Login test passed with Assertions");
+
 		
 	}
 }
